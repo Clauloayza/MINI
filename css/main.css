@@ -36,7 +36,7 @@ header .boton:hover{
     font-weight: bold;
 }
 header h2{
-    top: 200px;
+    top: 175px;
     position: relative;
     font-size: 50px;
 }
@@ -44,7 +44,7 @@ header h2:hover{
     font-size: 70px;
 }
 header h6{
-    top: 200px;
+    top: 175px;
     position: relative;
     font-size: 20px;
 }
@@ -90,6 +90,7 @@ header li a:hover{
     background-image: url(../tru9y_wg_400x400.png);
     width: 100% no-repeat;
     align-content: center;
+    background-position: center;
     opacity: 0.6;
 }
 .container h3{
